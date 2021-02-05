@@ -1,0 +1,392 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 3.8 anaconda" />
+      <type value="Python SDK" />
+      <version value="Python 3.8.5" />
+      <homePath value="E:\computer\python\Anaconda3-2020.11-Windows-x86_64\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/lib" type="simple" />
+            <root url="file://E:/computer/python/Anaconda3-2020.11-Windows-x86_64/DLLs" type="simple" />
+            <root url="file://E:/computer/python/Anaconda3-2020.11-Windows-x86_64/Lib" type="simple" />
+            <root url="file://E:/computer/python/Anaconda3-2020.11-Windows-x86_64/Lib/site-packages" type="simple" />
+            <root url="file://E:/computer/python/Anaconda3-2020.11-Windows-x86_64/Lib/site-packages/win32" type="simple" />
+            <root url="file://E:/computer/python/Anaconda3-2020.11-Windows-x86_64/Lib/site-packages/win32/lib" type="simple" />
+            <root url="file://E:/computer/python/Anaconda3-2020.11-Windows-x86_64/Lib/site-packages/pythonwin" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2020.3/python_stubs/1538188613" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3.7" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.9" />
+      <homePath value="E:\computer\python\python_versions\python3.7_64bit\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/lib" type="simple" />
+            <root url="file://E:/computer/python/python_versions/python3.7_64bit" type="simple" />
+            <root url="file://E:/computer/python/python_versions/python3.7_64bit/DLLs" type="simple" />
+            <root url="file://E:/computer/python/python_versions/python3.7_64bit/Lib" type="simple" />
+            <root url="file://E:/computer/python/python_versions/python3.7_64bit/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2020.3/python_stubs/-1484822807" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3.7" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.9 (32)" />
+      <type value="Python SDK" />
+      <version value="Python 3.9.1" />
+      <homePath value="E:\computer\python\python_versions\python3.9_32bit\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/lib" type="simple" />
+            <root url="file://E:/computer/python/python_versions/python3.9_32bit" type="simple" />
+            <root url="file://E:/computer/python/python_versions/python3.9_32bit/DLLs" type="simple" />
+            <root url="file://E:/computer/python/python_versions/python3.9_32bit/Lib" type="simple" />
+            <root url="file://E:/computer/python/python_versions/python3.9_32bit/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2020.3/python_stubs/-667501304" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3.9" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3.7" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.8 (python3.8_64bit)" />
+      <type value="Python SDK" />
+      <version value="Python 3.8.7" />
+      <homePath value="E:\computer\virtual_python\python3.8_64bit\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/lib" type="simple" />
+            <root url="file://E:/computer/virtual_python/python3.8_64bit/Scripts" type="simple" />
+            <root url="file://E:/computer/python/python_versions/python3.8_64bit/DLLs" type="simple" />
+            <root url="file://E:/computer/python/python_versions/python3.8_64bit/Lib" type="simple" />
+            <root url="file://E:/computer/python/python_versions/python3.8_64bit" type="simple" />
+            <root url="file://E:/computer/virtual_python/python3.8_64bit" type="simple" />
+            <root url="file://E:/computer/virtual_python/python3.8_64bit/Lib/site-packages" type="simple" />
+            <root url="file://E:/computer/python/python_versions/python3.8_64bit/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2020.3/python_stubs/212503370" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3.7" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.8 (32)" />
+      <type value="Python SDK" />
+      <version value="Python 3.8.7" />
+      <homePath value="E:\computer\python\python_versions\python3.8_32bit\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/lib" type="simple" />
+            <root url="file://E:/computer/python/python_versions/python3.8_32bit" type="simple" />
+            <root url="file://E:/computer/python/python_versions/python3.8_32bit/DLLs" type="simple" />
+            <root url="file://E:/computer/python/python_versions/python3.8_32bit/Lib" type="simple" />
+            <root url="file://E:/computer/python/python_versions/python3.8_32bit/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2020.3/python_stubs/329571049" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3.7" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.9 (python3.9_64bit)" />
+      <type value="Python SDK" />
+      <version value="Python 3.9.1" />
+      <homePath value="E:\computer\virtual_python\python3.9_64bit\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/lib" type="simple" />
+            <root url="file://E:/computer/virtual_python/python3.9_64bit/Scripts" type="simple" />
+            <root url="file://E:/computer/python/python_versions/python3.9_64bit/DLLs" type="simple" />
+            <root url="file://E:/computer/python/python_versions/python3.9_64bit/Lib" type="simple" />
+            <root url="file://E:/computer/python/python_versions/python3.9_64bit" type="simple" />
+            <root url="file://E:/computer/virtual_python/python3.9_64bit" type="simple" />
+            <root url="file://E:/computer/virtual_python/python3.9_64bit/Lib/site-packages" type="simple" />
+            <root url="file://E:/computer/python/python_versions/python3.9_64bit/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2020.3/python_stubs/243523177" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3.9" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3.7" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (python3.7_32bit)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.9" />
+      <homePath value="E:\computer\virtual_python\python3.7_32bit\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/lib" type="simple" />
+            <root url="file://E:/computer/virtual_python/python3.7_32bit/Scripts" type="simple" />
+            <root url="file://E:/computer/python/python_versions/python3.7_32bit/DLLs" type="simple" />
+            <root url="file://E:/computer/python/python_versions/python3.7_32bit/Lib" type="simple" />
+            <root url="file://E:/computer/python/python_versions/python3.7_32bit" type="simple" />
+            <root url="file://E:/computer/virtual_python/python3.7_32bit" type="simple" />
+            <root url="file://E:/computer/virtual_python/python3.7_32bit/Lib/site-packages" type="simple" />
+            <root url="file://E:/computer/python/python_versions/python3.7_32bit/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2020.3/python_stubs/-2107025140" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3.7" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (32)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.9" />
+      <homePath value="E:\computer\python\python_versions\python3.7_32bit\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/lib" type="simple" />
+            <root url="file://E:/computer/python/python_versions/python3.7_32bit" type="simple" />
+            <root url="file://E:/computer/python/python_versions/python3.7_32bit/DLLs" type="simple" />
+            <root url="file://E:/computer/python/python_versions/python3.7_32bit/Lib" type="simple" />
+            <root url="file://E:/computer/python/python_versions/python3.7_32bit/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2020.3/python_stubs/1326643402" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3.7" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.8 (python3.8_32bit)" />
+      <type value="Python SDK" />
+      <version value="Python 3.8.7" />
+      <homePath value="E:\computer\virtual_python\python3.8_32bit\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/lib" type="simple" />
+            <root url="file://E:/computer/virtual_python/python3.8_32bit/Scripts" type="simple" />
+            <root url="file://E:/computer/python/python_versions/python3.8_32bit/DLLs" type="simple" />
+            <root url="file://E:/computer/python/python_versions/python3.8_32bit/Lib" type="simple" />
+            <root url="file://E:/computer/python/python_versions/python3.8_32bit" type="simple" />
+            <root url="file://E:/computer/virtual_python/python3.8_32bit" type="simple" />
+            <root url="file://E:/computer/virtual_python/python3.8_32bit/Lib/site-packages" type="simple" />
+            <root url="file://E:/computer/python/python_versions/python3.8_32bit/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2020.3/python_stubs/-2076005333" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3.7" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.8" />
+      <type value="Python SDK" />
+      <version value="Python 3.8.7" />
+      <homePath value="E:\computer\python\python_versions\python3.8_64bit\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/lib" type="simple" />
+            <root url="file://E:/computer/python/python_versions/python3.8_64bit" type="simple" />
+            <root url="file://E:/computer/python/python_versions/python3.8_64bit/DLLs" type="simple" />
+            <root url="file://E:/computer/python/python_versions/python3.8_64bit/Lib" type="simple" />
+            <root url="file://E:/computer/python/python_versions/python3.8_64bit/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2020.3/python_stubs/1813072136" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3.7" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.9 (python3.9_32bit)" />
+      <type value="Python SDK" />
+      <version value="Python 3.9.1" />
+      <homePath value="E:\computer\virtual_python\python3.9_32bit\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/lib" type="simple" />
+            <root url="file://E:/computer/virtual_python/python3.9_32bit/Scripts" type="simple" />
+            <root url="file://E:/computer/python/python_versions/python3.9_32bit/DLLs" type="simple" />
+            <root url="file://E:/computer/python/python_versions/python3.9_32bit/Lib" type="simple" />
+            <root url="file://E:/computer/python/python_versions/python3.9_32bit" type="simple" />
+            <root url="file://E:/computer/virtual_python/python3.9_32bit" type="simple" />
+            <root url="file://E:/computer/virtual_python/python3.9_32bit/Lib/site-packages" type="simple" />
+            <root url="file://E:/computer/python/python_versions/python3.9_32bit/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2020.3/python_stubs/-2044985526" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3.9" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3.7" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (python3.7_64bit)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.9" />
+      <homePath value="E:\computer\virtual_python\python3.7_64bit\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/lib" type="simple" />
+            <root url="file://E:/computer/virtual_python/python3.7_64bit/Scripts" type="simple" />
+            <root url="file://E:/computer/python/python_versions/python3.7_64bit/DLLs" type="simple" />
+            <root url="file://E:/computer/python/python_versions/python3.7_64bit/Lib" type="simple" />
+            <root url="file://E:/computer/python/python_versions/python3.7_64bit" type="simple" />
+            <root url="file://E:/computer/virtual_python/python3.7_64bit" type="simple" />
+            <root url="file://E:/computer/virtual_python/python3.7_64bit/Lib/site-packages" type="simple" />
+            <root url="file://E:/computer/python/python_versions/python3.7_64bit/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2020.3/python_stubs/181483563" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3.7" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.9" />
+      <type value="Python SDK" />
+      <version value="Python 3.9.1" />
+      <homePath value="E:\computer\python\python_versions\python3.9_64bit\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/lib" type="simple" />
+            <root url="file://E:/computer/python/python_versions/python3.9_64bit" type="simple" />
+            <root url="file://E:/computer/python/python_versions/python3.9_64bit/DLLs" type="simple" />
+            <root url="file://E:/computer/python/python_versions/python3.9_64bit/Lib" type="simple" />
+            <root url="file://E:/computer/python/python_versions/python3.9_64bit/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2020.3/python_stubs/815999783" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3.9" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3.7" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+  </component>
+</application>
