@@ -12,6 +12,20 @@
       <list>
         <option value="range.__getitem__" />
         <option value="uasyncio" />
+        <option value="ubinascii" />
+        <option value="ucollections" />
+        <option value="uerrno" />
+        <option value="uhashlib" />
+        <option value="uheapq" />
+        <option value="uos" />
+        <option value="ure" />
+        <option value="uselect" />
+        <option value="usocket" />
+        <option value="ussl" />
+        <option value="ustruct" />
+        <option value="usys" />
+        <option value="uzlib" />
+        <option value="rp2" />
       </list>
     </option>
   </inspection_tool>
