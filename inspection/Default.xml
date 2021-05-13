@@ -11,6 +11,7 @@
     <option name="ignoredIdentifiers">
       <list>
         <option value="range.__getitem__" />
+        <option value="uasyncio" />
       </list>
     </option>
   </inspection_tool>
