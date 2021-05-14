@@ -26,6 +26,7 @@
         <option value="usys" />
         <option value="uzlib" />
         <option value="rp2" />
+        <option value="umachine" />
       </list>
     </option>
   </inspection_tool>
