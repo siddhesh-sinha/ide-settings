@@ -1,0 +1,13 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c7b44536-2e11-4b6c-a244-a28912ac5033" name="RPI">
+        <fileTransfer accessType="SFTP" host="192.168.0.101" port="22" sshConfigId="d518c2cd-aaf0-437b-ad8c-64c5c7a86433" sshConfig="RPI">
+          <advancedOptions>
+            <advancedOptions keepAliveTimeout="60000" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
