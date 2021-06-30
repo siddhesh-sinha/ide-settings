@@ -10,6 +10,9 @@
       <webServer id="cb57ed1f-3e8c-44f7-b4a1-3f24f9a57a08" name="Raspberry Pi">
         <fileTransfer accessType="SFTP" host="192.168.0.101" port="22" sshConfigId="bbedce0e-6273-4ce9-a36f-42a76e50d50e" sshConfig="Raspberry Pi" />
       </webServer>
+      <webServer id="df11e962-9ee4-439a-ad4b-0428eed966a6" name="Raspberry Pi">
+        <fileTransfer accessType="SFTP" host="192.168.0.101" port="22" sshConfigId="bbedce0e-6273-4ce9-a36f-42a76e50d50e" sshConfig="Raspberry Pi" />
+      </webServer>
     </option>
   </component>
 </application>
